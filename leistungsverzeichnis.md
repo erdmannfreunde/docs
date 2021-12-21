@@ -5,7 +5,7 @@ Im Falle einer Beauftragung erkärst du dich mit diesem Leistungsverzeichnis ein
 
 Stand: 17.05.2021
 
-## 1. Wie wir kommunizieren
+## 1. <span id="kommunizieren"></span>Wie wir kommunizieren
 Ein wesentlicher Bestandteil unserer Arbeit ist die Kommunikation. Dabei bevorzugen wir folgende Kommunikationskanäle (in absteigender Reihenfolge):
 
 - Projektmanagement-Plattformen und Ticketsysteme
@@ -14,7 +14,7 @@ Ein wesentlicher Bestandteil unserer Arbeit ist die Kommunikation. Dabei bevorzu
 
 Wir kommunizieren am Liebsten nichtlinear und reagieren auf Nachrichten in der Regel innerhalb von 24 Stunden. In Notfällen sind wir auch telefonisch erreichbar oder nach telefonischer Vereinbarung. Solltest du uns außerhalb unserer Telefonzeiten erreichen, kannst du uns eine Nachricht auf der Mailbox hinterlassen und wir rufen dich zurück.
 
-## 2. Wie wir abrechnen
+## 2. <span id="abrechnen"></span>Wie wir abrechnen
 ### 2.1 Nach Angebot:
 Bei der Abrechnung nach Angebot rechnen wir nach Projektfortschritt ab. Ist im Angebot keine gesonderte Abrechnung vereinbart, wird das Projekt in 3 Stufen abgerechnet: _50% zur Projekthalbzeit, 40% kurz vor Projektende, 10% nach Projektende._
 
@@ -25,7 +25,7 @@ Auf Anfrage geben wir dir Zugriff zu unserem Zeiterfassungssystem Toggl. Dort ka
 
 _Ist im Projektvertrag kein Stundensatz vereinbart, gilt unser Standard-Stundensatz von 100€ (netto)._
 
-## 3. Wie wir Projekte umsetzen und testen
+## 3. <span id="umsetzen-testen"></span>Wie wir Projekte umsetzen und testen
 ### 3.1. Browser-Optimierung
 Wir setzen bei der Layoutumsetzung stets auf moderne und bewährte Techniken. Viele von ihnen sind anerkannte Webstandards. Allerdings ist es bei der Vielzahl der Browser und Browserversionen nicht möglich, eine Website für alle Browser zu optimieren.
 
@@ -75,7 +75,7 @@ Wir selbst bieten kein Hosting an, beraten aber gerne bei der Auswahl eines pass
 
 Soll der Testserver darüber hinaus erhalten bleiben, um zum Beispiel Tests für Redakteure zu ermöglichen, erstellen wir dir dafür gern ein separates Angebot.
 
-## 4. Wie wir Daten sichern
+## 4. <span id="daten-sichern"></span>Wie wir Daten sichern
 ### 4.1 Während der Projektumsetzung
 Während der Entwicklung erstellen wir regelmäßig Backups, um Datenverluste zu vermeiden. Je nach Projektgröße und -budget wird das Projekt zusätzlich per git versioniert und auf einer Gitlab-Instanz auf einem deutschen Server gesichert.
 
@@ -84,10 +84,10 @@ Sofern keine anderen Vereinbarungen getroffen wurden, ist nach Fertigstellung de
 
 Der letzte Projektstand sowie das Projektmaterial wird von uns archiviert und für 12 Monate nach Projektabschluss aufbewahrt. Sollte die Geschäftsbeziehung beendet werden, werden alle Daten auf unseren Servern gelöscht.
 
-## 5. Wie wir den Datenschutz gewährleisten
+## 5. <span id="datenschutz"></span>Wie wir den Datenschutz gewährleisten
 Sämtliches Projektmaterial wird vertraulich behandelt und weder weitergegeben, noch ohne Zustimmung öffentlich gemacht. Von dir bereitgestellte Zugangsdaten werden wahlweise lokal gespeichert oder mit ausreichender Verschlüsselung bei Drittanbietern abgelegt.
 
-## 6. Wie wir mit Lizenzen umgehen
+## 6. <span id="lizenzen"></span>Wie wir mit Lizenzen umgehen
 Alle Lizenzen, die im Rahmen der Projektumsetzung benötigt werden, werden vom Auftraggeber direkt erworben. Dies betrifft insbesondere:
 
 - Contao Themes
