@@ -96,9 +96,9 @@ Alle Lizenzen, die im Rahmen der Projektumsetzung benötigt werden, werden vom A
 - Dienste von Drittanbietern, z.B. externe Newsletter-Dienste wie Mailchimp oder Online-Kartendienste wie Google Maps
 
 ### TOC:
-1. [Wie wir kommunizieren](1-wie-wir-kommunizieren)
-2. [Wie wir abrechnen](2-wie-wir-abrechnen)
-3. [Wie wir Projekte umsetzen und testen](3-wie-wir-projekte-umsetzen-und-testen)
-4. [Wie wir Daten sichern](4-wie-wir-daten-sichern)
-5. [Wie wir den Datenschutz gewährleisten](5-wie-wir-den-datenschutz-gewährleisten)
-6. [Wie wir mit Lizenzen umgehen](6-wie-wir-mit-lizenzen-umgehen)
+1. [Wie wir kommunizieren](#1-wie-wir-kommunizieren)
+2. [Wie wir abrechnen](#2-wie-wir-abrechnen)
+3. [Wie wir Projekte umsetzen und testen](#3-wie-wir-projekte-umsetzen-und-testen)
+4. [Wie wir Daten sichern](#4-wie-wir-daten-sichern)
+5. [Wie wir den Datenschutz gewährleisten](#5-wie-wir-den-datenschutz-gewährleisten)
+6. [Wie wir mit Lizenzen umgehen](#6-wie-wir-mit-lizenzen-umgehen)
