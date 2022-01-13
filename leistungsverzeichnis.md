@@ -3,7 +3,7 @@ Bei einem Webprojekt müssen eine Vielzahl von Entscheidungen getroffen werden. 
 
 Im Falle einer Beauftragung erkärst du dich mit diesem Leistungsverzeichnis einverstanden. Zusätzliche Vereinbarungen werden schriftlich in Angebotsform festgehalten.
 
-Stand: 17.05.2021
+Stand: 13.01.2022
 
 ## 1. <span id="kommunizieren"></span>Wie wir kommunizieren
 Ein wesentlicher Bestandteil unserer Arbeit ist die Kommunikation. Dabei bevorzugen wir folgende Kommunikationskanäle (in absteigender Reihenfolge):
@@ -21,9 +21,14 @@ Bei der Abrechnung nach Angebot rechnen wir nach Projektfortschritt ab. Ist im A
 ### 2.2 Nach Aufwand:
 Bei der Abrechnung nach Aufwand wird die geleistete Arbeitszeit über ein digitales Zeiterfassungssystem verwaltet und jeweils zum Monatsende oder spätestens nach Abschluss des Auftrages abgerechnet. Hierbei rechnen wir in 5-Minuten-Intervallen ab.
 
-Auf Anfrage geben wir dir Zugriff zu unserem Zeiterfassungssystem Toggl. Dort kannst du den aktuellen Stand der geleisteten Stunden sowie eine stichwortartige Beschreibung der Tätigkeiten einsehen. 
+Auf Anfrage geben wir dir Zugriff zu unserem Zeiterfassungssystem Toggl. Dort kannst du den aktuellen Stand der geleisteten Stunden sowie eine stichwortartige Beschreibung der Tätigkeiten einsehen.
 
-_Ist im Projektvertrag kein Stundensatz vereinbart, gilt unser Standard-Stundensatz von 100€ (netto)._
+### 2.3 Wartungsverträge:
+Für die regelmäßige Aktualisierung von Contao sowie Datensicherungen bieten wir optional Wartungsverträge an. Diese werden standardmäßig für 12 Monate abgeschlossen und verlängern sich automatisch um ein weiteres Jahr, sofern sie nicht 30 Tage vor Verlängerung gekündigt werden. Zur Kündigung reicht eine formlose E-Mail. 
+
+Der Betrag für 12 Monate wird bei Abschluss des Vertrags fällig. Wird der Vertrag vorzeitig gekündigt, verfällt das bestehende Guthaben. Eine Rückerstattung ist ausgeschlossen. 
+
+_Ist im Projektvertrag kein Stundensatz vereinbart, gilt unser Standard-Stundensatz von 120€ (netto)._
 
 ## 3. <span id="umsetzen-testen"></span>Wie wir Projekte umsetzen und testen
 ### 3.1. Browser-Optimierung
@@ -57,11 +62,11 @@ Um die Kosten für Geräte und Tests im Rahmen zu halten, wird die Website absch
 
 **Folgende Endgeräte nutzen wir für unseren finalen Qualitätscheck:**
 
-- iPhone 12 (iOS 14)
+- iPhone 12 (iOS 15)
 - iPad 9,7"
 - Kindle Fire Tablet 7"
-- Macbook Pro 13" (macOS 10.13)
-- Macbook Pro 13" (Windows 10 in Virtual Box)
+- Macbook Pro 13" (macOS 12)
+- iMac 24" (macOS 12)
 - PC (Windows 10)
 
 Weitere Geräte können oftmals recht zuverlässig über Chrome simuliert werden. Die Darstellung kann allerdings dennoch von einem echten Gerät abweichen.
@@ -71,7 +76,7 @@ Sollte es zu der Situation kommen, dass wir einen Fehler im Rahmen unserer Mögl
 Die Nutzung eines solchen Open Device Labs ist jedoch mit einem gewissen zeitlichen und administrativen Aufwand verbunden und wird deshalb gesondert abgesprochen und abgerechnet.
 
 ### 3.3 Hosting
-Wir selbst bieten kein Hosting an, beraten aber gerne bei der Auswahl eines passenden Hosting-Anbieters. Für die Zeit der Entwicklung können wir einen Testserver zur Verfügung stellen, der auch nach Projektabschluss noch 2-4 Wochen aktiv bleiben kann.
+Wir bieten kein Hosting an, beraten aber gerne bei der Auswahl eines passenden Hosting-Anbieters. Für die Zeit der Entwicklung können wir einen Testserver zur Verfügung stellen, der auch nach Projektabschluss noch 2-4 Wochen aktiv bleiben kann.
 
 Soll der Testserver darüber hinaus erhalten bleiben, um zum Beispiel Tests für Redakteure zu ermöglichen, erstellen wir dir dafür gern ein separates Angebot.
 
