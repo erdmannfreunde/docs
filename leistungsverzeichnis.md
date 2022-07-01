@@ -3,7 +3,7 @@ Bei einem Webprojekt müssen eine Vielzahl von Entscheidungen getroffen werden. 
 
 Im Falle einer Beauftragung erkärst du dich mit diesem Leistungsverzeichnis einverstanden. Zusätzliche Vereinbarungen werden schriftlich in Angebotsform festgehalten.
 
-Stand: 13.01.2022
+Stand: 01.07.2022
 
 ## 1. <span id="kommunizieren"></span>Wie wir kommunizieren
 Ein wesentlicher Bestandteil unserer Arbeit ist die Kommunikation. Dabei bevorzugen wir folgende Kommunikationskanäle (in absteigender Reihenfolge):
