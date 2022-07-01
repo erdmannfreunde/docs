@@ -19,9 +19,9 @@ Wir kommunizieren am Liebsten nichtlinear und reagieren auf Nachrichten in der R
 Bei der Abrechnung nach Angebot rechnen wir nach Projektfortschritt ab. Ist im Angebot keine gesonderte Abrechnung vereinbart, wird das Projekt in 3 Stufen abgerechnet: _50% zur Projekthalbzeit, 40% kurz vor Projektende, 10% nach Projektende._
 
 ### 2.2 Nach Aufwand:
-Bei der Abrechnung nach Aufwand wird die geleistete Arbeitszeit über ein digitales Zeiterfassungssystem verwaltet und jeweils zum Monatsende oder spätestens nach Abschluss des Auftrages abgerechnet. Hierbei rechnen wir in 5-Minuten-Intervallen ab.
+Bei der Abrechnung nach Aufwand wird die geleistete Arbeitszeit über ein digitales Zeiterfassungssystem verwaltet und jeweils zum Monatsende oder spätestens nach Abschluss des Auftrages abgerechnet. Hierbei rechnen wir minutengenau ab.
 
-Auf Anfrage geben wir dir Zugriff zu unserem Zeiterfassungssystem Toggl. Dort kannst du den aktuellen Stand der geleisteten Stunden sowie eine stichwortartige Beschreibung der Tätigkeiten einsehen.
+Auf Anfrage geben wir dir Zugriff zu unserem Zeiterfassungssystem Invoice Ninja. Dort kannst du den aktuellen Stand der geleisteten Stunden sowie eine stichwortartige Beschreibung der Tätigkeiten einsehen.
 
 ### 2.3 Wartungsverträge:
 Für die regelmäßige Aktualisierung von Contao sowie Datensicherungen bieten wir optional Wartungsverträge an. Diese werden standardmäßig für 12 Monate abgeschlossen und verlängern sich automatisch um ein weiteres Jahr, sofern sie nicht 30 Tage vor Verlängerung gekündigt werden. Zur Kündigung reicht eine formlose E-Mail. 
