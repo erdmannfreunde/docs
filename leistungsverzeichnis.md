@@ -3,7 +3,7 @@ Bei einem Webprojekt müssen eine Vielzahl von Entscheidungen getroffen werden. 
 
 Im Falle einer Beauftragung erkärst du dich mit diesem Leistungsverzeichnis einverstanden. Zusätzliche Vereinbarungen werden schriftlich in Angebotsform festgehalten.
 
-Stand: 01.07.2022
+Stand: 23.09.2024
 
 ## 1. <span id="kommunizieren"></span>Wie wir kommunizieren
 Ein wesentlicher Bestandteil unserer Arbeit ist die Kommunikation. Dabei bevorzugen wir folgende Kommunikationskanäle (in absteigender Reihenfolge):
@@ -28,7 +28,7 @@ Für die regelmäßige Aktualisierung von Contao sowie Datensicherungen bieten w
 
 Der Betrag für 12 Monate wird bei Abschluss des Vertrags fällig. Wird der Vertrag vorzeitig gekündigt, verfällt das bestehende Guthaben. Eine Rückerstattung ist ausgeschlossen. 
 
-_Ist im Projektvertrag kein Stundensatz vereinbart, gilt unser Standard-Stundensatz von 120€ (netto)._
+_Ist im Projektvertrag kein Stundensatz vereinbart, gilt unser Standard-Stundensatz von 150 € (netto)._
 
 ## 3. <span id="umsetzen-testen"></span>Wie wir Projekte umsetzen und testen
 ### 3.1. Browser-Optimierung
@@ -42,32 +42,29 @@ Insbesondere in älteren Versionen des Internet Explorer kann es dabei zu Darste
 - Firefox Version (Mac/Windows)*
 - Safari (Mac)*
 - MS Edge (Windows)*
-- Mobile Safari iOS 12+ (iPhone)
+- Mobile Safari iOS 12+ (iPhone, iPad)
 - Mobile Chrome iOS 12+ (iPhone)
-- Mobile Edge iOS 12+ (iPhone)
+- Mobile Chrome (Samsung Phone/Samsung Tablet)
+- Mobile Edge (Samsung Phone/Samsung Tablet)
+- Mobile Firefox (Samsung Phone/Samsung Tablet)
 - Silk Browser (Kindle Fire Tablet) 
 _* jeweils neueste Programmversion zum Zeitpunkt des Tests (keine Nightly/Dev-Versionen)_
 
-**Außerdem machen wir einen Check in folgenden Browsern:**
-
-- Internet Explorer 11
-- Mobile Safari iOS 9
-
-Beim diesem Browsercheck akzeptieren wir, dass gewisse Funktionen nicht einwandfrei funktionieren und Darstellungen abweichen können. Solange aber das Layout nicht vollkommen kaputt ist, werden wir keine Anpassungen vornehmen.
-
-**Solltest du eine Unterstützung des Internet Explorer 9, 10 oder 11 wünschen, so bieten wir diesen Browser-Support im Angebot gesondert an.**
+**Solltest du eine Unterstützung für weitere Browser wünschen, so bieten wir diesen Browser-Support im Angebot gesondert an.**
 
 ### 3.2. Gerätetests
 Um die Kosten für Geräte und Tests im Rahmen zu halten, wird die Website abschließend stellvertretend auf einigen Geräten getestet.
 
 **Folgende Endgeräte nutzen wir für unseren finalen Qualitätscheck:**
 
-- iPhone 12 (iOS 15)
-- iPad 9,7"
+- iPhone 12 (neueste iOS-Version)
+- iPad Pro 9,7" (neueste iPadOS-Version)
 - Kindle Fire Tablet 7"
 - Macbook Pro 13" (macOS 12)
 - iMac 24" (macOS 12)
 - PC (Windows 10)
+- Samsung Galaxy A15 (Android 14)
+- Samsung Galaxy Tab A9+ (Android 14)
 
 Weitere Geräte können oftmals recht zuverlässig über Chrome simuliert werden. Die Darstellung kann allerdings dennoch von einem echten Gerät abweichen.
 
